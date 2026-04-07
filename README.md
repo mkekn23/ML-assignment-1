@@ -1,9 +1,18 @@
 # **House prices advanced regression techniques**
-//todo Kaggle-ის კონკურსის მოკლე მიმოხილვა
+### კონკურსის მიმოხილვა
+Kaggle House prices advanced regression techniques  კონკურსის მიზანია იმის პროგნოზირება, თუ რა იქნება სახლის ფასი, სახლის სხვადასხვა მახასიათებლების საფუძველზე. ეს ამოცანა ფასდება RMSE-ის მიხედვით.
 
-//todo თქვენი მიდგომა პრობლემის გადასაჭრელად
 ### რეპოზიტორიის სტრუქტურა
+
+ML-assignment-1
+
+│
+├── model-experiment.ipynb     ← preprocessing, ექსპერიმენტები
+├── model-inference.ipynb      ← საუკეთესო მოდელის ჩამოტვირთვა, პროგნოზი, submission
+├── README.md
+
 //todo ყველა ფაილის განმარტება
+
 ### Feature Engineering
 //todo კატეგორიული ცვლადების რიცხვითში გადაყვანა
 
